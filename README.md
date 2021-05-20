@@ -1,6 +1,6 @@
-## Anatomia de l'olfacte
+## Anatomia del sentit de l'olfacte
 
-![cabra](Olfacte2.png)
+![cabra](olfacte2.png)
 
 -__Cabitat nasal:__ Espai dins del nas. La cavitat nasal està damunt de l'os que forma el paladar i es corba cap avall i enrere fins a unir-se amb la gola.
 
