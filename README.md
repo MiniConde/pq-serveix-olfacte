@@ -10,4 +10,4 @@
 
 -__Nervi olfactiu:__ transmeten informació de l'olfacte per mitjà de la placa cribiforme cap als bulbs i fascicles olfactoris que, al seu torn, transmeten aquesta informació a l'escorça olfactiva en els lòbuls temporals medials.
 
-https://github.com/MiniConde/Olfacte
+[Torna](https://github.com/MiniConde/Olfacte)
